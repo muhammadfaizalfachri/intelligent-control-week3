@@ -1,0 +1,4 @@
+Praktikum ini membahas penerapan CNN dalam sistem kendali cerdas. Dataset dari Kaggle diproses dengan augmentasi agar model lebih robust. 
+CNN yang dibangun dilatih untuk klasifikasi citra, lalu diintegrasikan dengan OpenCV untuk deteksi real-time serta fitur Night Vision. 
+Praktikum ini juga menekankan penggunaan GitHub sebagai version control. 
+Secara keseluruhan, materi memberikan pengalaman lengkap mulai dari teori, implementasi, hingga penerapan langsung dalam sistem kendali berbasis Deep Learning.
